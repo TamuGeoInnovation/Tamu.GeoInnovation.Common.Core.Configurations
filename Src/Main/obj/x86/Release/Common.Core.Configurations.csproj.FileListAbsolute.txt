@@ -1,0 +1,8 @@
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Configurations\Src\build\v1.1\bin\x86\release\Tamu.GeoInnovation.Common.Core.Configurations.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Configurations\Src\Main\obj\x86\Release\USC.GISResearchLab.Common.Core.Configurations.Panels.FrmConfigurationLogging.resources
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Configurations\Src\Main\obj\x86\Release\USC.GISResearchLab.Common.Core.Configurations.Panels.FrmConfigurationOptimizations.resources
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Configurations\Src\Main\obj\x86\Release\USC.GISResearchLab.Common.Core.Configurations.Panels.FrmConfigurationServer.resources
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Configurations\Src\Main\obj\x86\Release\Common.Core.Configurations.csproj.GenerateResource.Cache
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Configurations\Src\Main\obj\x86\Release\Tamu.GeoInnovation.Common.Core.Configurations.dll
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\Configurations\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.Configurations.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Configurations\Src\Main\obj\x86\Release\Common.Core.Configurations.csprojResolveAssemblyReference.cache
