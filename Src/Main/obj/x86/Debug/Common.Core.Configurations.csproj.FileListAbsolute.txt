@@ -1,9 +1,0 @@
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Configurations\build\v1.1\bin\x86\debug\USC.GISResearchLab.Common.Core.Configurations.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Configurations\build\v1.1\bin\x86\debug\USC.GISResearchLab.Common.Core.Configurations.pdb
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Configurations\src\obj\x86\Debug\Common.Core.Configurations.csprojResolveAssemblyReference.cache
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Configurations\src\obj\x86\Debug\USC.GISResearchLab.Common.Core.Configurations.Panels.FrmConfigurationLogging.resources
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Configurations\src\obj\x86\Debug\USC.GISResearchLab.Common.Core.Configurations.Panels.FrmConfigurationOptimizations.resources
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Configurations\src\obj\x86\Debug\USC.GISResearchLab.Common.Core.Configurations.Panels.FrmConfigurationServer.resources
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Configurations\src\obj\x86\Debug\Common.Core.Configurations.csproj.GenerateResource.Cache
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Configurations\src\obj\x86\Debug\USC.GISResearchLab.Common.Core.Configurations.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Configurations\src\obj\x86\Debug\USC.GISResearchLab.Common.Core.Configurations.pdb
