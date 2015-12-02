@@ -13,7 +13,8 @@ namespace USC.GISResearchLab.Common.Core.Configurations
     {
         #region Properties
 
-        public double Version { get; set; }
+        public Version CoreVersion { get; set; }
+        public Version InterfaceVersion { get; set; }
         
         public string ConfigurationFilePath { get; set; }
         

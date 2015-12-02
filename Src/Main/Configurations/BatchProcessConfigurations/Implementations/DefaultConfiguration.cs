@@ -2,6 +2,7 @@ using System;
 using System.IO;
 using System.Xml.Serialization;
 using USC.GISResearchLab.Common.Utils.Files;
+using System.Reflection;
 
 namespace USC.GISResearchLab.Common.Core.Configurations
 {
@@ -12,14 +13,15 @@ namespace USC.GISResearchLab.Common.Core.Configurations
 
         #endregion
 
-        public DefaultConfiguration() : this(1.0) { }
+        public DefaultConfiguration() : this(Assembly.GetExecutingAssembly().GetName().Version, Assembly.GetExecutingAssembly().GetName().Version) { }
 
-        public DefaultConfiguration(double version)
+        public DefaultConfiguration(Version coreVersion, Version interfaceVersion)
         {
             OptimizationConfiguration = new DefaultOptimizationConfiguration();
             ServerConfiguration = new DefaultServerConfiguration();
             LoggingConfiguration = new DefaultLoggingConfiguration();
-            Version = version;
+            CoreVersion = coreVersion;
+            InterfaceVersion = interfaceVersion;
         }
 
         public override void SetDefaults()
