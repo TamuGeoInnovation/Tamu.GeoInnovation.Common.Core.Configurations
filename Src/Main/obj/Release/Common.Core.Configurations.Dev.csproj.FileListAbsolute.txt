@@ -1,4 +1,8 @@
 C:\DevSource\Tamu\GeoInnovation\Common.Core.Configurations\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Configurations.dll
+C:\DevSource\Tamu\GeoInnovation\Common.Core.Configurations\build\01.01.0000\AnyCPU\release\SqlServerTypes\x64\msvcr100.dll
+C:\DevSource\Tamu\GeoInnovation\Common.Core.Configurations\build\01.01.0000\AnyCPU\release\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\DevSource\Tamu\GeoInnovation\Common.Core.Configurations\build\01.01.0000\AnyCPU\release\SqlServerTypes\x86\msvcr100.dll
+C:\DevSource\Tamu\GeoInnovation\Common.Core.Configurations\build\01.01.0000\AnyCPU\release\SqlServerTypes\x86\SqlServerSpatial110.dll
 C:\DevSource\Tamu\GeoInnovation\Common.Core.Configurations\build\01.01.0000\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Configurations.dll
 C:\DevSource\Tamu\GeoInnovation\Common.Core.Configurations\Src\Main\obj\Release\Common.Core.Configurations.Dev.csprojResolveAssemblyReference.cache
 C:\DevSource\Tamu\GeoInnovation\Common.Core.Configurations\Src\Main\obj\Release\USC.GISResearchLab.Common.Core.Configurations.Panels.FrmConfigurationLogging.resources
@@ -6,7 +10,3 @@ C:\DevSource\Tamu\GeoInnovation\Common.Core.Configurations\Src\Main\obj\Release\
 C:\DevSource\Tamu\GeoInnovation\Common.Core.Configurations\Src\Main\obj\Release\USC.GISResearchLab.Common.Core.Configurations.Panels.FrmConfigurationServer.resources
 C:\DevSource\Tamu\GeoInnovation\Common.Core.Configurations\Src\Main\obj\Release\Common.Core.Configurations.Dev.csproj.GenerateResource.Cache
 C:\DevSource\Tamu\GeoInnovation\Common.Core.Configurations\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Configurations.dll
-C:\DevSource\Tamu\GeoInnovation\Common.Core.Configurations\build\01.01.0000\AnyCPU\release\SqlServerTypes\x64\msvcr100.dll
-C:\DevSource\Tamu\GeoInnovation\Common.Core.Configurations\build\01.01.0000\AnyCPU\release\SqlServerTypes\x64\SqlServerSpatial110.dll
-C:\DevSource\Tamu\GeoInnovation\Common.Core.Configurations\build\01.01.0000\AnyCPU\release\SqlServerTypes\x86\msvcr100.dll
-C:\DevSource\Tamu\GeoInnovation\Common.Core.Configurations\build\01.01.0000\AnyCPU\release\SqlServerTypes\x86\SqlServerSpatial110.dll
