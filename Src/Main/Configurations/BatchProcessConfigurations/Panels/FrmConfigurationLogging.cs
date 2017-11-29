@@ -3,6 +3,7 @@ using System.Windows.Forms;
 using USC.GISResearchLab.Common.Utils.FileBrowsers;
 using USC.GISResearchLab.Common.Utils.Strings;
 
+
 namespace USC.GISResearchLab.Common.Core.Configurations.Panels
 {
     public partial class FrmConfigurationLogging : Form
