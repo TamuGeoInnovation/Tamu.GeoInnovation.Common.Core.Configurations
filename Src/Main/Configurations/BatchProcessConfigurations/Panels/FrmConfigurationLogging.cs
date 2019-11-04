@@ -35,7 +35,7 @@ namespace USC.GISResearchLab.Common.Core.Configurations.Panels
                 initialPath = txtLogFilePath.Text;
             }
 
-            string path = FileBrowserUtils.BrowseAndSelectSaveFile(FileBrowserUtils.TYPE_TEXT , "Select log file", initialPath);
+            string path = FileBrowserUtils.BrowseAndSelectSaveFile(FileBrowserUtils.TYPE_TEXT, "Select log file", initialPath);
             if (!StringUtils.IsEmpty(path))
             {
                 txtLogFilePath.Text = path;

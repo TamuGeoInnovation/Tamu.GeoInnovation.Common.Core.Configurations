@@ -6,6 +6,6 @@ namespace USC.GISResearchLab.Common.Core.Configurations
     public class DefaultLoggingConfiguration : AbstractLoggingConfiguration
     {
         public DefaultLoggingConfiguration() : base() { }
-       
+
     }
 }

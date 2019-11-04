@@ -18,7 +18,7 @@ namespace USC.GISResearchLab.Common.Core.Configurations
         public string LocalServerUserName { get; set; }
         public string LocalServerPassword { get; set; }
 
-        public abstract string DeafultApiSoapUrl {get; }
+        public abstract string DeafultApiSoapUrl { get; }
         public abstract string DeafultApiHttpUrl { get; }
 
         public AbstractServerConfiguration(string server, string userName, string password)

@@ -3,7 +3,7 @@
 namespace USC.GISResearchLab.Common.Core.Configurations
 {
     [Serializable]
-    public class DefaultServerConfiguration: AbstractServerConfiguration
+    public class DefaultServerConfiguration : AbstractServerConfiguration
     {
 
         #region Properties
@@ -13,7 +13,7 @@ namespace USC.GISResearchLab.Common.Core.Configurations
 
         #endregion
 
-        public DefaultServerConfiguration(string server, string userName, string password): base(server, userName, password){}
+        public DefaultServerConfiguration(string server, string userName, string password) : base(server, userName, password) { }
 
         public DefaultServerConfiguration() : base(null, null, null) { }
 

@@ -15,10 +15,10 @@ namespace USC.GISResearchLab.Common.Core.Configurations
 
         public Version CoreVersion { get; set; }
         public Version InterfaceVersion { get; set; }
-        
+
         public string ConfigurationFilePath { get; set; }
-        
-        
+
+
         [XmlIgnore]
         public string EncryptionKey { get; set; }
 

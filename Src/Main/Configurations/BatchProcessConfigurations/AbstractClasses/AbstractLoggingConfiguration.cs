@@ -23,7 +23,7 @@ namespace USC.GISResearchLab.Common.Core.Configurations
         {
             ShouldLog = false;
             string executingFilePath = Assembly.GetExecutingAssembly().Location;
-            LogFilePath = Path.Combine(FileUtils.GetDirectoryPath(executingFilePath),"log.txt");
+            LogFilePath = Path.Combine(FileUtils.GetDirectoryPath(executingFilePath), "log.txt");
             TraceLevelString = "0";
             TraceLevel = 0;
         }

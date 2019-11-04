@@ -30,7 +30,7 @@ namespace USC.GISResearchLab.Common.Core.Configurations.Panels
             txtLocalServer.DataBindings.Add("Text", Configuration.ServerConfiguration, "LocalServerPath", true, DataSourceUpdateMode.OnPropertyChanged);
             txtLocalServerPass.DataBindings.Add("Text", Configuration.ServerConfiguration, "LocalServerPassword", true, DataSourceUpdateMode.OnPropertyChanged);
             txtLocalServerUser.DataBindings.Add("Text", Configuration.ServerConfiguration, "LocalServerUserName", true, DataSourceUpdateMode.OnPropertyChanged);
-            
+
         }
 
         private void FrmConfigurationServer_Load(object sender, EventArgs e)
