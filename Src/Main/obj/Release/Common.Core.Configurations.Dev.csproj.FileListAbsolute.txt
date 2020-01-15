@@ -12,3 +12,11 @@ C:\DevSource\Tamu\GeoInnovation\Common.Core.Configurations\Src\Main\obj\Release\
 C:\DevSource\TAMU\GeoInnovation\Common.Core.Configurations\Src\Main\obj\Release\Common.Core.Configurations.Dev.csprojAssemblyReference.cache
 C:\DevSource\TAMU\GeoInnovation\Common.Core.Configurations\Src\Main\obj\Release\Common.Core.Configurations.Dev.csproj.CoreCompileInputs.cache
 C:\DevSource\TAMU\GeoInnovation\Common.Core.Configurations\Src\Main\obj\Release\Common.Core.Configurations.Dev.csproj.CopyComplete
+D:\DevSource\TAMU\GeoInnovation\Common.Core.Configurations\build\01.01.0000\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Configurations.dll
+D:\DevSource\TAMU\GeoInnovation\Common.Core.Configurations\Src\Main\obj\Release\Common.Core.Configurations.Dev.csprojAssemblyReference.cache
+D:\DevSource\TAMU\GeoInnovation\Common.Core.Configurations\Src\Main\obj\Release\USC.GISResearchLab.Common.Core.Configurations.Panels.FrmConfigurationLogging.resources
+D:\DevSource\TAMU\GeoInnovation\Common.Core.Configurations\Src\Main\obj\Release\USC.GISResearchLab.Common.Core.Configurations.Panels.FrmConfigurationOptimizations.resources
+D:\DevSource\TAMU\GeoInnovation\Common.Core.Configurations\Src\Main\obj\Release\USC.GISResearchLab.Common.Core.Configurations.Panels.FrmConfigurationServer.resources
+D:\DevSource\TAMU\GeoInnovation\Common.Core.Configurations\Src\Main\obj\Release\Common.Core.Configurations.Dev.csproj.GenerateResource.cache
+D:\DevSource\TAMU\GeoInnovation\Common.Core.Configurations\Src\Main\obj\Release\Common.Core.Configurations.Dev.csproj.CopyComplete
+D:\DevSource\TAMU\GeoInnovation\Common.Core.Configurations\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Configurations.dll
